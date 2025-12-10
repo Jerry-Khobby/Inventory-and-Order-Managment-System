@@ -3,6 +3,8 @@
 
 A simple SQL-based project for managing customers, products, inventory, and orders. Includes ERD, DDL schema, sample inserts, and business KPIs.
 
+
+
 ## ER Diagram
 ```md
 ![ER Diagram](./erd/er-inventory-and-order-management.drawio.png)
@@ -14,7 +16,7 @@ A simple SQL-based project for managing customers, products, inventory, and orde
 inventory-and-order-system-management/
 │
 ├── erd/
-│     └── erd_diagram.png
+│     └── er-inventory-and-order-management.drawio.png
 │
 ├── sql/
 │     ├── ddl/
