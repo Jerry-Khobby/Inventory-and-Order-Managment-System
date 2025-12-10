@@ -9,6 +9,8 @@ A simple SQL-based project for managing customers, products, inventory, and orde
 ![ER Diagram](./erd/er-inventory-and-order-management.drawio.png)
 
 ## 📁 Folder Structure
+
+```
 inventory-and-order-system-management/
 │
 ├── erd/
@@ -22,7 +24,11 @@ inventory-and-order-system-management/
 │           └── kpi.advanced.sql
 │
 └── README.md
-## What’s Inside
+```
+
+---
+
+## 📌 What’s Inside
 
 ### **1. DDL (create.tables.sql)**
 
