@@ -2,7 +2,8 @@ CALL ProcessNewOrder(
     1,
     '[
         {"product_id": 1, "quantity": 2},
-        {"product_id": 3, "quantity": 1}
+        {"product_id": 3, "quantity": 1},
+        {"product_id:3","quantity": 3}
     ]'
 );
 
