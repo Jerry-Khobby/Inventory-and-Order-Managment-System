@@ -31,7 +31,7 @@ It is suitable for learning and showcasing skills in:
 
 The ER diagram illustrates the relationships between customers, products, orders, inventory, and order items.
 
-![ER Diagram](./erd/Database%20ER%20diagram%20(crow's%20foot).png)
+![ER Diagram](./erd/schema.png)
 
 ---
 
